@@ -6,3 +6,9 @@ plots/
 data/*.csv
 !data/README*
 .DS_Store
+
+# Backtester generated files
+data/*.csv
+outputs/
+plots/
+
